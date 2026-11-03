@@ -1,0 +1,20 @@
+Use case: identity-preserve. Asset: extra footwork animation sprite sheet for the EXISTING arcade pixel-art boxer from reference image 1. Image 1 is the EXACT character and art style to preserve; image 2 is a supporting costume / identity reference. Generate one transparent PNG sheet, 2048x2048, EXACTLY 4 columns and 4 rows with 16 equal square cells, no grid lines, no text, no shadows, no effects, no opponent, NO background. The SAME fighter is shown once per cell, always full body, facing RIGHT in orthodox guard (LEFT lead leg is the leg on the right of the image, RIGHT rear leg is the leg on the left). Keep identity and rendering identical to image 1: slim athletic young East Asian man, black backwards cap and fringe, black loose long-sleeved sweatshirt with tiny white chest wordmarks, black shorts above knees, white ankle socks, tan wheat yellow trainers, bare fists. Retain recognizable face, the exact black outfit and narrow athletic build. Crisp high-detail arcade pixel art, natural 6.5 to 7-head adult proportions, deliberate pixel clusters, not blurry or chibi. Keep head size / scale identical in all 16 cells, shoes fully inside the frame with generous margins. Same floor baseline at 91% of each cell, normal head top at 13%. Upper body in boxing guard through EVERY frame, chin tucked, shoulders relaxed, fists by cheeks, soft knees. ABSOLUTELY NO punching or kicks in this sheet, only real BOXING STEP-AND-DRAG FOOTWORK. The legs MUST change pose: one foot is planted and drives while the other takes a short, low step. No big jumps, no crossed feet, no skating with both feet glued to the floor, no stretched legs. Visible heel lift, bent knee compression, weight shift, low foot clearance. Small short athletic steps.
+Cells 0–7, first two rows, are one FORWARD step cycle moving RIGHT, rear-foot push, lead foot first, rear foot follows:
+0 balanced orthodox stance, both feet on floor, wide but comfortable.
+1 compress into REAR (image-left) ball of foot, rear heel rises, lead heel just lightens.
+2 REAR foot still pressing ground, LEAD (image-right) foot clearly lifts 2–4 pixels off the floor and begins a low forward step, upper body inclines forward slightly.
+3 lead foot reaches a little farther right, toe just off floor, rear ball still planted, shoulder and hip moving forward, anatomical leg lengths preserved.
+4 lead foot LANDS in its new forward position; stance momentarily wider, rear heel raised at old contact point, knee extension drives from rear.
+5 weight on the planted LEAD foot, REAR foot lifts from the floor and starts following forward; do not cross feet.
+6 rear foot follows toward its new place, floating low over the floor, lead foot stays grounded and supporting; knees soft.
+7 regain original stance width with both feet grounded, guard intact, head and body shape match cell 0.
+Cells 8–15, last two rows, are one BACKWARD step cycle moving LEFT, front-foot push, rear foot first, lead follows:
+8 balanced orthodox stance same as cell 0.
+9 compress into LEAD (image-right) ball of foot, lead heel rises to push backward; rear foot unweights.
+10 lead ball of foot presses ground while REAR (image-left) foot lifts visibly and steps backward toward LEFT, upper body stays guarded.
+11 rear foot reaches farther left with low clearance, lead ball still planted, hips shifting left, no leaning off balance.
+12 rear foot LANDS farther left; stance momentarily wider, lead heel raised in the old position, front foot still completing push.
+13 weight on planted REAR foot, LEAD foot lifts and follows backward to the left; feet never cross.
+14 lead foot follows backward low over the floor, rear foot remains planted.
+15 regain original stance width and high guard, both feet grounded, match cell 8 and 0.
+These are genuine sequential gait frames, not 16 copies of a standing boxer. Prioritize clear planted / airborne foot distinction and consistent anatomy. Keep the person's exact face and pixel-art look. All cells have one uniform scale; no scenic background or lettering outside his existing small chest marks.

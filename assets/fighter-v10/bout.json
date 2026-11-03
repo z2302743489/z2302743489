@@ -1,0 +1,993 @@
+{
+  "duration_ms": 28810,
+  "final_hit_ms": 24680,
+  "health_at_win": 12,
+  "events": [
+    {
+      "t": 1860,
+      "end": 2180,
+      "actor": "player",
+      "kind": "jab",
+      "result": "block",
+      "damage": 0,
+      "x": 788,
+      "y": 214,
+      "px": -6,
+      "bx": 29,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 2370,
+      "end": 2690,
+      "actor": "player",
+      "kind": "jab",
+      "result": "block",
+      "damage": 0,
+      "x": 785,
+      "y": 214,
+      "px": -9,
+      "bx": 26,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 2900,
+      "end": 3250,
+      "actor": "player",
+      "kind": "cross",
+      "result": "hit",
+      "damage": 7,
+      "x": 789,
+      "y": 210,
+      "px": -12,
+      "bx": 31,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 3495,
+      "end": 3795,
+      "actor": "robot",
+      "kind": "jab",
+      "result": "block",
+      "damage": 0,
+      "x": 707,
+      "y": 232,
+      "px": -15,
+      "bx": 3,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 4030,
+      "end": 4330,
+      "actor": "robot",
+      "kind": "body",
+      "result": "hit",
+      "damage": 12,
+      "x": 675,
+      "y": 275,
+      "px": -15,
+      "bx": -20,
+      "high": false,
+      "finisher": false
+    },
+    {
+      "t": 5105,
+      "end": 5475,
+      "actor": "robot",
+      "kind": "hook",
+      "result": "hit",
+      "damage": 14,
+      "x": 653,
+      "y": 222,
+      "px": -37,
+      "bx": -63,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 5755,
+      "end": 6085,
+      "actor": "robot",
+      "kind": "cross",
+      "result": "block",
+      "damage": 0,
+      "x": 680,
+      "y": 242,
+      "px": -42,
+      "bx": -29,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 6395,
+      "end": 6765,
+      "actor": "robot",
+      "kind": "upper",
+      "result": "miss",
+      "damage": 0,
+      "x": 676,
+      "y": 248,
+      "px": -42,
+      "bx": -48,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 7690,
+      "end": 8065,
+      "actor": "player",
+      "kind": "hook",
+      "result": "hit",
+      "damage": 10,
+      "x": 751,
+      "y": 230,
+      "px": -6,
+      "bx": -5,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 8655,
+      "end": 9165,
+      "actor": "robot",
+      "kind": "overhand",
+      "result": "hit",
+      "damage": 17,
+      "x": 681,
+      "y": 224,
+      "px": -9,
+      "bx": -31,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 9355,
+      "end": 9675,
+      "actor": "player",
+      "kind": "jab",
+      "result": "miss",
+      "damage": 0,
+      "x": 780,
+      "y": 214,
+      "px": -14,
+      "bx": 63,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 9920,
+      "end": 10220,
+      "actor": "robot",
+      "kind": "jab",
+      "result": "block",
+      "damage": 0,
+      "x": 705,
+      "y": 232,
+      "px": -17,
+      "bx": 1,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 10455,
+      "end": 10755,
+      "actor": "robot",
+      "kind": "body",
+      "result": "hit",
+      "damage": 16,
+      "x": 673,
+      "y": 275,
+      "px": -17,
+      "bx": -22,
+      "high": false,
+      "finisher": false
+    },
+    {
+      "t": 11465,
+      "end": 11795,
+      "actor": "robot",
+      "kind": "cross",
+      "result": "block",
+      "damage": 0,
+      "x": 683,
+      "y": 242,
+      "px": -39,
+      "bx": -26,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 12140,
+      "end": 12510,
+      "actor": "robot",
+      "kind": "hook",
+      "result": "miss",
+      "damage": 0,
+      "x": 679,
+      "y": 222,
+      "px": -39,
+      "bx": -37,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 13400,
+      "end": 13720,
+      "actor": "player",
+      "kind": "jab",
+      "result": "hit",
+      "damage": 7,
+      "x": 791,
+      "y": 214,
+      "px": -3,
+      "bx": 32,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 13930,
+      "end": 14280,
+      "actor": "player",
+      "kind": "cross",
+      "result": "hit",
+      "damage": 10,
+      "x": 795,
+      "y": 210,
+      "px": -6,
+      "bx": 37,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 14490,
+      "end": 14840,
+      "actor": "player",
+      "kind": "cross",
+      "result": "block",
+      "damage": 0,
+      "x": 792,
+      "y": 210,
+      "px": -9,
+      "bx": 34,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 15150,
+      "end": 15520,
+      "actor": "robot",
+      "kind": "upper",
+      "result": "hit",
+      "damage": 15,
+      "x": 678,
+      "y": 248,
+      "px": -12,
+      "bx": -46,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 16600,
+      "end": 17110,
+      "actor": "robot",
+      "kind": "overhand",
+      "result": "miss",
+      "damage": 0,
+      "x": 684,
+      "y": 224,
+      "px": -34,
+      "bx": -28,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 17685,
+      "end": 18060,
+      "actor": "player",
+      "kind": "hook",
+      "result": "hit",
+      "damage": 10,
+      "x": 741,
+      "y": 230,
+      "px": -16,
+      "bx": -15,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 18305,
+      "end": 18605,
+      "actor": "robot",
+      "kind": "jab",
+      "result": "hit",
+      "damage": 14,
+      "x": 671,
+      "y": 232,
+      "px": -19,
+      "bx": -33,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 18885,
+      "end": 19215,
+      "actor": "robot",
+      "kind": "cross",
+      "result": "block",
+      "damage": 0,
+      "x": 698,
+      "y": 242,
+      "px": -24,
+      "bx": -11,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 19450,
+      "end": 19750,
+      "actor": "robot",
+      "kind": "body",
+      "result": "block",
+      "damage": 0,
+      "x": 698,
+      "y": 275,
+      "px": -24,
+      "bx": 3,
+      "high": false,
+      "finisher": false
+    },
+    {
+      "t": 20095,
+      "end": 20465,
+      "actor": "robot",
+      "kind": "hook",
+      "result": "miss",
+      "damage": 0,
+      "x": 694,
+      "y": 222,
+      "px": -24,
+      "bx": -22,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 21125,
+      "end": 21475,
+      "actor": "player",
+      "kind": "cross",
+      "result": "hit",
+      "damage": 13,
+      "x": 795,
+      "y": 210,
+      "px": -6,
+      "bx": 37,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 21720,
+      "end": 22020,
+      "actor": "robot",
+      "kind": "jab",
+      "result": "miss",
+      "damage": 0,
+      "x": 709,
+      "y": 232,
+      "px": -9,
+      "bx": 5,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 22210,
+      "end": 22530,
+      "actor": "player",
+      "kind": "jab",
+      "result": "hit",
+      "damage": 8,
+      "x": 785,
+      "y": 214,
+      "px": -9,
+      "bx": 26,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 22740,
+      "end": 23090,
+      "actor": "player",
+      "kind": "cross",
+      "result": "hit",
+      "damage": 10,
+      "x": 789,
+      "y": 210,
+      "px": -12,
+      "bx": 31,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 24015,
+      "end": 24390,
+      "actor": "player",
+      "kind": "hook",
+      "result": "hit",
+      "damage": 10,
+      "x": 778,
+      "y": 230,
+      "px": 21,
+      "bx": 22,
+      "high": true,
+      "finisher": false
+    },
+    {
+      "t": 24680,
+      "end": 25130,
+      "actor": "player",
+      "kind": "upper",
+      "result": "hit",
+      "damage": 15,
+      "x": 753,
+      "y": 190,
+      "px": 18,
+      "bx": -3,
+      "high": true,
+      "finisher": true
+    }
+  ],
+  "steps": [
+    {
+      "start": 1320,
+      "end": 1670,
+      "direction": "advance",
+      "from_x": -24,
+      "to_x": -6,
+      "poses": [
+        {
+          "t": 1380,
+          "pose": 25,
+          "support": "rear",
+          "world": 57,
+          "x": -28
+        },
+        {
+          "t": 1439,
+          "pose": 26,
+          "support": "rear",
+          "world": 57,
+          "x": -29
+        },
+        {
+          "t": 1502,
+          "pose": 27,
+          "support": "rear",
+          "world": 57,
+          "x": -28
+        },
+        {
+          "t": 1565,
+          "pose": 28,
+          "support": "rear",
+          "world": 57,
+          "x": -26
+        },
+        {
+          "t": 1624,
+          "pose": 29,
+          "support": "lead",
+          "world": 207,
+          "x": -7
+        }
+      ]
+    },
+    {
+      "start": 4330,
+      "end": 4760,
+      "direction": "retreat",
+      "from_x": -20,
+      "to_x": -37,
+      "poses": [
+        {
+          "t": 4403,
+          "pose": 33,
+          "support": "lead",
+          "world": 193,
+          "x": 2
+        },
+        {
+          "t": 4476,
+          "pose": 34,
+          "support": "lead",
+          "world": 193,
+          "x": 1
+        },
+        {
+          "t": 4554,
+          "pose": 35,
+          "support": "lead",
+          "world": 193,
+          "x": -9
+        },
+        {
+          "t": 4631,
+          "pose": 36,
+          "support": "lead",
+          "world": 193,
+          "x": -32
+        },
+        {
+          "t": 4704,
+          "pose": 35,
+          "support": "rear",
+          "world": 44,
+          "x": -32
+        }
+      ]
+    },
+    {
+      "start": 6765,
+      "end": 7115,
+      "direction": "advance",
+      "from_x": -42,
+      "to_x": -24,
+      "poses": [
+        {
+          "t": 6825,
+          "pose": 25,
+          "support": "rear",
+          "world": 39,
+          "x": -46
+        },
+        {
+          "t": 6884,
+          "pose": 26,
+          "support": "rear",
+          "world": 39,
+          "x": -47
+        },
+        {
+          "t": 6947,
+          "pose": 27,
+          "support": "rear",
+          "world": 39,
+          "x": -46
+        },
+        {
+          "t": 7010,
+          "pose": 28,
+          "support": "rear",
+          "world": 39,
+          "x": -44
+        },
+        {
+          "t": 7069,
+          "pose": 29,
+          "support": "lead",
+          "world": 189,
+          "x": -25
+        }
+      ]
+    },
+    {
+      "start": 7115,
+      "end": 7465,
+      "direction": "advance",
+      "from_x": -24,
+      "to_x": -6,
+      "poses": [
+        {
+          "t": 7175,
+          "pose": 25,
+          "support": "rear",
+          "world": 57,
+          "x": -28
+        },
+        {
+          "t": 7234,
+          "pose": 26,
+          "support": "rear",
+          "world": 57,
+          "x": -29
+        },
+        {
+          "t": 7297,
+          "pose": 27,
+          "support": "rear",
+          "world": 57,
+          "x": -28
+        },
+        {
+          "t": 7360,
+          "pose": 28,
+          "support": "rear",
+          "world": 57,
+          "x": -26
+        },
+        {
+          "t": 7419,
+          "pose": 29,
+          "support": "lead",
+          "world": 207,
+          "x": -7
+        }
+      ]
+    },
+    {
+      "start": 10755,
+      "end": 11185,
+      "direction": "retreat",
+      "from_x": -22,
+      "to_x": -39,
+      "poses": [
+        {
+          "t": 10828,
+          "pose": 33,
+          "support": "lead",
+          "world": 191,
+          "x": 0
+        },
+        {
+          "t": 10901,
+          "pose": 34,
+          "support": "lead",
+          "world": 191,
+          "x": -1
+        },
+        {
+          "t": 10979,
+          "pose": 35,
+          "support": "lead",
+          "world": 191,
+          "x": -11
+        },
+        {
+          "t": 11056,
+          "pose": 36,
+          "support": "lead",
+          "world": 191,
+          "x": -34
+        },
+        {
+          "t": 11129,
+          "pose": 35,
+          "support": "rear",
+          "world": 42,
+          "x": -34
+        }
+      ]
+    },
+    {
+      "start": 12510,
+      "end": 12860,
+      "direction": "advance",
+      "from_x": -39,
+      "to_x": -21,
+      "poses": [
+        {
+          "t": 12570,
+          "pose": 25,
+          "support": "rear",
+          "world": 42,
+          "x": -43
+        },
+        {
+          "t": 12629,
+          "pose": 26,
+          "support": "rear",
+          "world": 42,
+          "x": -44
+        },
+        {
+          "t": 12692,
+          "pose": 27,
+          "support": "rear",
+          "world": 42,
+          "x": -43
+        },
+        {
+          "t": 12755,
+          "pose": 28,
+          "support": "rear",
+          "world": 42,
+          "x": -41
+        },
+        {
+          "t": 12814,
+          "pose": 29,
+          "support": "lead",
+          "world": 192,
+          "x": -22
+        }
+      ]
+    },
+    {
+      "start": 12860,
+      "end": 13210,
+      "direction": "advance",
+      "from_x": -21,
+      "to_x": -3,
+      "poses": [
+        {
+          "t": 12920,
+          "pose": 25,
+          "support": "rear",
+          "world": 60,
+          "x": -25
+        },
+        {
+          "t": 12979,
+          "pose": 26,
+          "support": "rear",
+          "world": 60,
+          "x": -26
+        },
+        {
+          "t": 13042,
+          "pose": 27,
+          "support": "rear",
+          "world": 60,
+          "x": -25
+        },
+        {
+          "t": 13105,
+          "pose": 28,
+          "support": "rear",
+          "world": 60,
+          "x": -23
+        },
+        {
+          "t": 13164,
+          "pose": 29,
+          "support": "lead",
+          "world": 210,
+          "x": -4
+        }
+      ]
+    },
+    {
+      "start": 15730,
+      "end": 16160,
+      "direction": "retreat",
+      "from_x": -17,
+      "to_x": -34,
+      "poses": [
+        {
+          "t": 15803,
+          "pose": 33,
+          "support": "lead",
+          "world": 196,
+          "x": 5
+        },
+        {
+          "t": 15876,
+          "pose": 34,
+          "support": "lead",
+          "world": 196,
+          "x": 4
+        },
+        {
+          "t": 15954,
+          "pose": 35,
+          "support": "lead",
+          "world": 196,
+          "x": -6
+        },
+        {
+          "t": 16031,
+          "pose": 36,
+          "support": "lead",
+          "world": 196,
+          "x": -29
+        },
+        {
+          "t": 16104,
+          "pose": 35,
+          "support": "rear",
+          "world": 47,
+          "x": -29
+        }
+      ]
+    },
+    {
+      "start": 17110,
+      "end": 17460,
+      "direction": "advance",
+      "from_x": -34,
+      "to_x": -16,
+      "poses": [
+        {
+          "t": 17170,
+          "pose": 25,
+          "support": "rear",
+          "world": 47,
+          "x": -38
+        },
+        {
+          "t": 17229,
+          "pose": 26,
+          "support": "rear",
+          "world": 47,
+          "x": -39
+        },
+        {
+          "t": 17292,
+          "pose": 27,
+          "support": "rear",
+          "world": 47,
+          "x": -38
+        },
+        {
+          "t": 17355,
+          "pose": 28,
+          "support": "rear",
+          "world": 47,
+          "x": -36
+        },
+        {
+          "t": 17414,
+          "pose": 29,
+          "support": "lead",
+          "world": 197,
+          "x": -17
+        }
+      ]
+    },
+    {
+      "start": 20565,
+      "end": 20915,
+      "direction": "advance",
+      "from_x": -24,
+      "to_x": -6,
+      "poses": [
+        {
+          "t": 20625,
+          "pose": 25,
+          "support": "rear",
+          "world": 57,
+          "x": -28
+        },
+        {
+          "t": 20684,
+          "pose": 26,
+          "support": "rear",
+          "world": 57,
+          "x": -29
+        },
+        {
+          "t": 20747,
+          "pose": 27,
+          "support": "rear",
+          "world": 57,
+          "x": -28
+        },
+        {
+          "t": 20810,
+          "pose": 28,
+          "support": "rear",
+          "world": 57,
+          "x": -26
+        },
+        {
+          "t": 20869,
+          "pose": 29,
+          "support": "lead",
+          "world": 207,
+          "x": -7
+        }
+      ]
+    },
+    {
+      "start": 23090,
+      "end": 23440,
+      "direction": "advance",
+      "from_x": -15,
+      "to_x": 3,
+      "poses": [
+        {
+          "t": 23150,
+          "pose": 25,
+          "support": "rear",
+          "world": 66,
+          "x": -19
+        },
+        {
+          "t": 23209,
+          "pose": 26,
+          "support": "rear",
+          "world": 66,
+          "x": -20
+        },
+        {
+          "t": 23272,
+          "pose": 27,
+          "support": "rear",
+          "world": 66,
+          "x": -19
+        },
+        {
+          "t": 23335,
+          "pose": 28,
+          "support": "rear",
+          "world": 66,
+          "x": -17
+        },
+        {
+          "t": 23394,
+          "pose": 29,
+          "support": "lead",
+          "world": 216,
+          "x": 2
+        }
+      ]
+    },
+    {
+      "start": 23440,
+      "end": 23790,
+      "direction": "advance",
+      "from_x": 3,
+      "to_x": 21,
+      "poses": [
+        {
+          "t": 23500,
+          "pose": 25,
+          "support": "rear",
+          "world": 84,
+          "x": -1
+        },
+        {
+          "t": 23559,
+          "pose": 26,
+          "support": "rear",
+          "world": 84,
+          "x": -2
+        },
+        {
+          "t": 23622,
+          "pose": 27,
+          "support": "rear",
+          "world": 84,
+          "x": -1
+        },
+        {
+          "t": 23685,
+          "pose": 28,
+          "support": "rear",
+          "world": 84,
+          "x": 1
+        },
+        {
+          "t": 23744,
+          "pose": 29,
+          "support": "lead",
+          "world": 234,
+          "x": 20
+        }
+      ]
+    }
+  ],
+  "previews": {
+    "push-forward": 1459,
+    "lead-land": 1585,
+    "rear-follow": 1644,
+    "push-back": 4496,
+    "rear-land": 4651,
+    "lead-follow": 4724,
+    "critical": 18375,
+    "win": 26330,
+    "jab-wind": 3385,
+    "jab": 3520,
+    "cross-wind": 5635,
+    "cross": 5780,
+    "body-wind": 3915,
+    "body": 4055,
+    "hook-wind": 4965,
+    "hook": 5130,
+    "upper-wind": 6270,
+    "upper": 6420,
+    "overhand-wind": 8500,
+    "overhand": 8680
+  }
+}
