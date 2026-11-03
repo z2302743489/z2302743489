@@ -14,5 +14,5 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Grok Bot](https://img.shields.io/badge/Grok%20Bot-1A1A1A?style=flat-square&logo=x&logoColor=white)
-![PI Agent](https://img.shields.io/badge/PI%20Agent-333333?style=flat-square&logoColor=white)
-![DeepSeek Harness](https://img.shields.io/badge/DeepSeek%20Harness-4D6BFE?style=flat-square&logoColor=white)
+![PI Agent](https://img.shields.io/badge/PI%20Agent-333333?style=flat-square&logo=pi&logoColor=white)
+![DeepSeek Harness](https://img.shields.io/badge/DeepSeek%20Harness-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
