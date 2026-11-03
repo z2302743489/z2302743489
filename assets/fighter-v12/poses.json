@@ -1,0 +1,332 @@
+{
+  "scale": 1.04,
+  "human_source_bounds": [
+    51,
+    20,
+    208,
+    245
+  ],
+  "rendered_standing_height": 234.0,
+  "frames": [
+    {
+      "index": 0,
+      "label": "GUARD",
+      "bounds": [
+        72,
+        49,
+        399,
+        284
+      ],
+      "source_bounds": [
+        51,
+        20,
+        366,
+        245
+      ],
+      "offset": [
+        19,
+        29
+      ]
+    },
+    {
+      "index": 1,
+      "label": "HIGH LOAD",
+      "bounds": [
+        104,
+        49,
+        383,
+        284
+      ],
+      "source_bounds": [
+        83,
+        20,
+        350,
+        245
+      ],
+      "offset": [
+        19,
+        29
+      ]
+    },
+    {
+      "index": 2,
+      "label": "HIGH CONTACT",
+      "bounds": [
+        87,
+        56,
+        375,
+        284
+      ],
+      "source_bounds": [
+        66,
+        28,
+        342,
+        247
+      ],
+      "offset": [
+        19,
+        27
+      ]
+    },
+    {
+      "index": 3,
+      "label": "RETRACT",
+      "bounds": [
+        63,
+        56,
+        381,
+        285
+      ],
+      "source_bounds": [
+        42,
+        25,
+        348,
+        243
+      ],
+      "offset": [
+        19,
+        31
+      ]
+    },
+    {
+      "index": 4,
+      "label": "GO BEHIND",
+      "bounds": [
+        62,
+        56,
+        334,
+        284
+      ],
+      "source_bounds": [
+        42,
+        27,
+        303,
+        245
+      ],
+      "offset": [
+        19,
+        29
+      ]
+    },
+    {
+      "index": 5,
+      "label": "REAR WAIST LOCK",
+      "bounds": [
+        138,
+        53,
+        309,
+        285
+      ],
+      "source_bounds": [
+        116,
+        26,
+        278,
+        247
+      ],
+      "offset": [
+        19,
+        27
+      ]
+    },
+    {
+      "index": 6,
+      "label": "LIFT",
+      "bounds": [
+        117,
+        32,
+        304,
+        285
+      ],
+      "source_bounds": [
+        95,
+        6,
+        274,
+        247
+      ],
+      "offset": [
+        19,
+        27
+      ]
+    },
+    {
+      "index": 7,
+      "label": "GERMAN ARCH",
+      "bounds": [
+        48,
+        52,
+        338,
+        285
+      ],
+      "source_bounds": [
+        28,
+        24,
+        307,
+        247
+      ],
+      "offset": [
+        19,
+        27
+      ]
+    },
+    {
+      "index": 8,
+      "label": "LANDING",
+      "bounds": [
+        52,
+        150,
+        363,
+        284
+      ],
+      "source_bounds": [
+        32,
+        97,
+        330,
+        225
+      ],
+      "offset": [
+        19,
+        50
+      ]
+    },
+    {
+      "index": 9,
+      "label": "ROLL BEHIND",
+      "bounds": [
+        55,
+        110,
+        385,
+        284
+      ],
+      "source_bounds": [
+        36,
+        59,
+        351,
+        225
+      ],
+      "offset": [
+        19,
+        50
+      ]
+    },
+    {
+      "index": 10,
+      "label": "BACK CONTROL",
+      "bounds": [
+        101,
+        98,
+        360,
+        285
+      ],
+      "source_bounds": [
+        80,
+        47,
+        328,
+        225
+      ],
+      "offset": [
+        19,
+        50
+      ]
+    },
+    {
+      "index": 11,
+      "label": "CHOKE ENTRY",
+      "bounds": [
+        115,
+        89,
+        355,
+        285
+      ],
+      "source_bounds": [
+        92,
+        38,
+        322,
+        225
+      ],
+      "offset": [
+        19,
+        50
+      ]
+    },
+    {
+      "index": 12,
+      "label": "HOLD",
+      "bounds": [
+        115,
+        91,
+        355,
+        284
+      ],
+      "source_bounds": [
+        93,
+        40,
+        323,
+        226
+      ],
+      "offset": [
+        19,
+        49
+      ]
+    },
+    {
+      "index": 13,
+      "label": "TAP OUT",
+      "bounds": [
+        109,
+        85,
+        354,
+        285
+      ],
+      "source_bounds": [
+        88,
+        40,
+        322,
+        232
+      ],
+      "offset": [
+        19,
+        43
+      ]
+    },
+    {
+      "index": 14,
+      "label": "RELEASE",
+      "bounds": [
+        67,
+        105,
+        358,
+        284
+      ],
+      "source_bounds": [
+        46,
+        56,
+        326,
+        227
+      ],
+      "offset": [
+        19,
+        48
+      ]
+    },
+    {
+      "index": 15,
+      "label": "VICTORY",
+      "bounds": [
+        68,
+        42,
+        360,
+        284
+      ],
+      "source_bounds": [
+        48,
+        9,
+        327,
+        241
+      ],
+      "offset": [
+        19,
+        33
+      ]
+    }
+  ]
+}
