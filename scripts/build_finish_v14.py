@@ -15,6 +15,7 @@ import math
 
 ROOT=Path(__file__).resolve().parents[1]
 ART=ROOT/'assets'/'fighter-v14'
+THIRD_PRINCIPLE='用行动检验假设，用反馈校准方向。'
 NS='http://www.w3.org/2000/svg'
 spec=importlib.util.spec_from_file_location('v13_engine',Path(__file__).with_name('build_finish_v13.py'))
 g=importlib.util.module_from_spec(spec);spec.loader.exec_module(g)
@@ -111,6 +112,9 @@ def build():
         for i in (11,12):shutil.copy2(ART/'choke.png',stage/'assets'/'fighter-v13'/f'human-{i:02}.png')
         g.ROOT=stage;g.ART=stage/'assets'/'fighter-v13';g.build()
         root=ET.parse(stage/'assets'/'fight-hero-v13.svg').getroot()
+    panel=next(node for node in root if node.get('id')=='editorial-panel-v8')
+    third=next(node for node in panel if node.text=='用真实反馈，校准每次判断。')
+    third.text=THIRD_PRINCIPLE
     camera=next(node for node in root.iter() if node.get('class')=='v9camera')
     bot=next(node for node in root.iter() if node.get('class')=='v9bot')
     back=next(node for node in root.iter() if node.get('class')=='v13finishback')
