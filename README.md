@@ -1,5 +1,5 @@
 <a href="https://z2302743489.github.io/">
-  <img src="./assets/fight-hero-v12.svg" width="100%" alt="张健航 · AI 产品经理：拳腿攻防与摔跤缠斗，高扫衔接德式背摔，以裸绞降服获胜。点击访问个人网站。" />
+  <img src="./assets/fight-hero-v13.svg" width="100%" alt="张健航 · AI 产品经理：拳击进退与双方攻防，高扫衔接德式背摔，以裸绞降服机器人。点击访问个人网站。" />
 </a>
 
 <p align="center"><sub>点击上方卡片，进入我的个人网站</sub></p>
