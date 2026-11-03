@@ -1,5 +1,5 @@
 <a href="https://z2302743489.github.io/">
-  <img src="./assets/fight-hero-v8.svg" width="100%" alt="张健航 · AI 产品经理：从问题出发，让人保有判断，用证据验证价值。像素格斗动画，点击访问个人网站。" />
+  <img src="./assets/fight-hero-v9.svg" width="100%" alt="张健航 · AI 产品经理：双方攻防、格挡与闪躲，最终反击击倒 AI 幻觉机器人。点击访问个人网站。" />
 </a>
 
 <p align="center"><sub>点击上方卡片，进入我的个人网站</sub></p>
