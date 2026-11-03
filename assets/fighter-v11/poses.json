@@ -1,0 +1,485 @@
+{
+  "scale": 1.0783410138248848,
+  "frames": [
+    {
+      "index": 0,
+      "label": "CHECK",
+      "source_bounds": [
+        96,
+        27,
+        192,
+        254
+      ],
+      "offset": [
+        7,
+        -14
+      ],
+      "visible_bounds": [
+        110,
+        14,
+        215,
+        261
+      ]
+    },
+    {
+      "index": 1,
+      "label": "LOW LOAD",
+      "source_bounds": [
+        65,
+        25,
+        193,
+        253
+      ],
+      "offset": [
+        7,
+        -13
+      ],
+      "visible_bounds": [
+        77,
+        13,
+        215,
+        261
+      ]
+    },
+    {
+      "index": 2,
+      "label": "LOW SWING",
+      "source_bounds": [
+        83,
+        33,
+        229,
+        253
+      ],
+      "offset": [
+        7,
+        -13
+      ],
+      "visible_bounds": [
+        95,
+        21,
+        254,
+        261
+      ]
+    },
+    {
+      "index": 3,
+      "label": "LOW CONTACT",
+      "source_bounds": [
+        58,
+        31,
+        229,
+        252
+      ],
+      "offset": [
+        7,
+        -12
+      ],
+      "visible_bounds": [
+        68,
+        21,
+        254,
+        261
+      ]
+    },
+    {
+      "index": 4,
+      "label": "LOW RECOVER",
+      "source_bounds": [
+        71,
+        30,
+        170,
+        252
+      ],
+      "offset": [
+        7,
+        -12
+      ],
+      "visible_bounds": [
+        84,
+        20,
+        190,
+        261
+      ]
+    },
+    {
+      "index": 5,
+      "label": "TEEP LOAD",
+      "source_bounds": [
+        59,
+        27,
+        163,
+        254
+      ],
+      "offset": [
+        7,
+        -14
+      ],
+      "visible_bounds": [
+        71,
+        15,
+        184,
+        261
+      ]
+    },
+    {
+      "index": 6,
+      "label": "TEEP EXTEND",
+      "source_bounds": [
+        59,
+        25,
+        226,
+        249
+      ],
+      "offset": [
+        7,
+        -9
+      ],
+      "visible_bounds": [
+        71,
+        17,
+        252,
+        261
+      ]
+    },
+    {
+      "index": 7,
+      "label": "TEEP CONTACT",
+      "source_bounds": [
+        60,
+        24,
+        235,
+        249
+      ],
+      "offset": [
+        7,
+        -9
+      ],
+      "visible_bounds": [
+        71,
+        17,
+        261,
+        261
+      ]
+    },
+    {
+      "index": 8,
+      "label": "TEEP RECOVER",
+      "source_bounds": [
+        61,
+        24,
+        171,
+        250
+      ],
+      "offset": [
+        7,
+        -10
+      ],
+      "visible_bounds": [
+        73,
+        15,
+        194,
+        261
+      ]
+    },
+    {
+      "index": 9,
+      "label": "CLINCH",
+      "source_bounds": [
+        30,
+        29,
+        210,
+        250
+      ],
+      "offset": [
+        7,
+        -10
+      ],
+      "visible_bounds": [
+        39,
+        20,
+        233,
+        260
+      ]
+    },
+    {
+      "index": 10,
+      "label": "KNEE LOAD",
+      "source_bounds": [
+        71,
+        24,
+        196,
+        249
+      ],
+      "offset": [
+        7,
+        -9
+      ],
+      "visible_bounds": [
+        82,
+        17,
+        219,
+        261
+      ]
+    },
+    {
+      "index": 11,
+      "label": "KNEE CONTACT",
+      "source_bounds": [
+        68,
+        25,
+        187,
+        249
+      ],
+      "offset": [
+        7,
+        -9
+      ],
+      "visible_bounds": [
+        79,
+        17,
+        210,
+        261
+      ]
+    },
+    {
+      "index": 12,
+      "label": "KNEE RECOVER",
+      "source_bounds": [
+        80,
+        21,
+        200,
+        244
+      ],
+      "offset": [
+        7,
+        -3
+      ],
+      "visible_bounds": [
+        92,
+        19,
+        224,
+        261
+      ]
+    },
+    {
+      "index": 13,
+      "label": "LEVEL CHANGE",
+      "source_bounds": [
+        48,
+        64,
+        212,
+        244
+      ],
+      "offset": [
+        7,
+        -3
+      ],
+      "visible_bounds": [
+        59,
+        65,
+        237,
+        260
+      ]
+    },
+    {
+      "index": 14,
+      "label": "SHOOT",
+      "source_bounds": [
+        19,
+        93,
+        237,
+        243
+      ],
+      "offset": [
+        7,
+        -2
+      ],
+      "visible_bounds": [
+        26,
+        98,
+        263,
+        260
+      ]
+    },
+    {
+      "index": 15,
+      "label": "LIFT",
+      "source_bounds": [
+        55,
+        64,
+        180,
+        244
+      ],
+      "offset": [
+        7,
+        -3
+      ],
+      "visible_bounds": [
+        65,
+        65,
+        202,
+        261
+      ]
+    },
+    {
+      "index": 16,
+      "label": "DRIVE",
+      "source_bounds": [
+        8,
+        73,
+        189,
+        243
+      ],
+      "offset": [
+        7,
+        -2
+      ],
+      "visible_bounds": [
+        16,
+        77,
+        212,
+        260
+      ]
+    },
+    {
+      "index": 17,
+      "label": "TOP CONTROL",
+      "source_bounds": [
+        11,
+        89,
+        217,
+        242
+      ],
+      "offset": [
+        7,
+        -1
+      ],
+      "visible_bounds": [
+        19,
+        94,
+        241,
+        261
+      ]
+    },
+    {
+      "index": 18,
+      "label": "GROUND LOAD",
+      "source_bounds": [
+        32,
+        88,
+        226,
+        238
+      ],
+      "offset": [
+        7,
+        3
+      ],
+      "visible_bounds": [
+        41,
+        98,
+        252,
+        261
+      ]
+    },
+    {
+      "index": 19,
+      "label": "GROUND CONTACT",
+      "source_bounds": [
+        27,
+        100,
+        217,
+        238
+      ],
+      "offset": [
+        7,
+        3
+      ],
+      "visible_bounds": [
+        36,
+        110,
+        242,
+        261
+      ]
+    },
+    {
+      "index": 20,
+      "label": "SPRAWL",
+      "source_bounds": [
+        5,
+        99,
+        245,
+        238
+      ],
+      "offset": [
+        7,
+        3
+      ],
+      "visible_bounds": [
+        11,
+        109,
+        272,
+        260
+      ]
+    },
+    {
+      "index": 21,
+      "label": "GROUND GUARD",
+      "source_bounds": [
+        23,
+        118,
+        243,
+        237
+      ],
+      "offset": [
+        7,
+        4
+      ],
+      "visible_bounds": [
+        32,
+        129,
+        269,
+        261
+      ]
+    },
+    {
+      "index": 22,
+      "label": "STAND UP",
+      "source_bounds": [
+        28,
+        82,
+        221,
+        238
+      ],
+      "offset": [
+        7,
+        3
+      ],
+      "visible_bounds": [
+        37,
+        90,
+        246,
+        260
+      ]
+    },
+    {
+      "index": 23,
+      "label": "GUARD",
+      "source_bounds": [
+        41,
+        21,
+        196,
+        238
+      ],
+      "offset": [
+        7,
+        3
+      ],
+      "visible_bounds": [
+        51,
+        26,
+        219,
+        261
+      ]
+    }
+  ]
+}

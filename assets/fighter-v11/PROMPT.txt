@@ -1,0 +1,31 @@
+Use case: identity-preserve. Asset: EXTRA MIXED MARTIAL ARTS GAME ANIMATION SPRITES for the EXACT already-approved boxer in the references. Image 1 is the exact identity/outfit/style target. Image 2 supplies additional face/costume references. Generate ONE large transparent PNG sheet, EXACTLY SIX columns and FOUR rows, 24 equally sized cells, landscape 3072x2048. Only ONE full-body human in each cell, no opponent, no scenery, no text, no grid lines, no shadows, no effects, transparent alpha background. Each cell is 512x512 with generous margins even for horizontal poses. EXACTLY preserve the person's recognisable angular youthful East Asian face, black fringe, black backwards baseball cap, lean athletic long-legged build, loose black long sleeve crewneck sweatshirt with small off-white block chest wordmarks, black mid-thigh shorts, white ankle socks and chunky wheat-yellow/tan trainers. Hands bare, no gloves. SAME sophisticated hand-drawn arcade fighting game PIXEL ART as the reference: deliberate sharp square pixel clusters, natural adult 6.5–7-head proportions, restrained shading, consistent head size and body scale across EVERY cell. The normal standing character is about 390px tall. ALL feet/hands entirely in their cell. Every ground contact at about 91% cell height. Keep the SAME physical scale for crouching / kneeling / lying poses: do NOT enlarge a crouching or lying man to fill the cell. Do not change his face or give him muscles/bulk. All standing attacks face RIGHT, all ground engagement faces the RIGHT. Preserve FIXED thigh, shin, upper arm and forearm lengths, solid joints, no elongated limbs or rubber poses. Exaggerate punch energy very slightly, not limb lengths. Supporting leg and planted trainer remain anatomically correct. His trained guard and chin tuck should remain visible.
+Exact 24 poses in reading order, six per row:
+ROW 1:
+0 low-kick CHECK / defensive shin block, left knee lifted in front, left shin almost vertical, standing on the right/rear leg, both fists near cheeks.
+1 REAR LOW KICK windup: pivot the left support foot, coil the hips, rear right leg starts moving, hands guarding.
+2 low-kick middle: right hip turns, rear leg swinging low toward RIGHT with knee still slightly bent, supporting heel pivots.
+3 low-kick contact: rear shin reaches LOW toward right at thigh height, torso rotated, kicking knee naturally bent 15–25 degrees, NO long straight rubber leg, supporting leg stable, planted trainer normal size.
+4 low kick retract: bend the kicking knee to recover stance, hands guarding.
+5 front TEEP load: lead left knee drawn toward waist, right/rear foot planted, hands high.
+ROW 2:
+6 front teep half extension, lifted left foot going forward to right at waist height, support leg softly bent.
+7 front teep full: sole of left wheat-yellow trainer forward/right at waist-to-belly height, kicking knee retains a small natural bend, heel out, torso leans back only slightly. The full hip-to-shoe length is the SAME as in the standing reference, NO stretched legs.
+8 teep retraction, kicking knee bends back toward waist before planting.
+9 CLINCH entry: both forearms/hands reach toward an implied opponent's shoulders to the RIGHT, elbows naturally bent, both feet grounded in a compact stance.
+10 clinch knee load: hands holding an implied collar tie in front/right, rear right heel lifts and knee coils, left foot supports.
+11 KNEE STRIKE contact: bent rear right knee drives diagonally up/right into an implied opponent's abdomen, thigh horizontal-ish, lower leg folded backward, no extended kicking shin, hands control the implied opponent's shoulders, left leg supports.
+ROW 3:
+12 knee recoil: rear knee withdraws, body returns toward compact clinch stance.
+13 wrestling LEVEL CHANGE: knees deeply bend, hips back, chin neutral, hands forward ready to shoot toward right.
+14 penetration step / DOUBLE LEG entry: lead knee down near the ground, rear leg drives, head near the implied opponent's waist on the RIGHT, both arms reaching around that waist. Anatomically clear lowered stance.
+15 double-leg LIFT: a strong low squat with both forearms wrapped around an implied opponent's thighs/right waist, chest up, back stable, heels grounded, preparing to stand and turn.
+16 takedown DRIVE: powerful diagonal forward/right body lean with rear leg driving and hands controlling the implied opponent's legs, both arms naturally bent, no airborne superhero jump.
+17 grounded TOP CONTROL: kneeling on left knee with right foot planted in a broad base, torso angled toward an opponent on the ground to RIGHT, one hand extended downward/right controlling, other guarding.
+ROW 4:
+18 grounded short punch LOAD from that same top-control stance, one fist pulled near right cheek, other hand supporting/control downward, left knee grounded and right foot planted.
+19 grounded short punch CONTACT from that stance, fist driven diagonally DOWN and RIGHT toward an implied opponent on the mat, no opponent shown, same grounded knees and scale.
+20 SPRAWL defence: hips thrown back toward LEFT, legs extended diagonally back/left with toes on the mat, hands/forearms braced down and forward toward RIGHT, chest lowered, resisting an implied takedown. Whole body remains anatomically one man, no extra arms.
+21 defensive GROUND GUARD after being tripped: lying/sitting on his back/left hip on the mat, upper back and one forearm near floor, head to LEFT looking RIGHT, both knees bent up toward the RIGHT to shield torso, both trainers visible, other hand guards face. Same head size / physical body scale as standing sprites, NOT a giant lying man.
+22 TECHNICAL STAND-UP: from a seated left-hip position, left hand planted on the mat behind/left, right foot planted under him, hips lifting, left leg withdrawing underneath, right hand high to guard face, facing RIGHT.
+23 back upright in the original orthodox boxing guard facing RIGHT, same face and stance as image 1.
+This is a coherent supplemental set of full poses for a boxing-to-kicking-to-clinch-to-wrestling animation. No weapons, no blood, no damage marks, no new clothes, no new character design. Strict natural anatomy and consistent scale, including low kicks and the full teep. No colored floor blobs or fake checkerboard background.
