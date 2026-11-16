@@ -12,6 +12,7 @@
 | jianhang-lab.jpg | GitHub 主页仓库的静态分享封面备选；主页继续保留原有像素对打动画 |
 | ai-model-atlas.jpg | 模型全景选型工作台，仓库 README、主页作品区与分享封面 |
 | grok-fat.jpg | 个人 Agent 桌面定制版，仓库 README、主页作品区与分享封面 |
+| zhixu-knowledge-platform.jpg | 知序 · 企业知识库与 AI 问答，主页作品区与仓库封面 |
 
 参考素材来自现有公开仓库：
 

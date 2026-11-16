@@ -12,6 +12,14 @@
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+<a href="https://github.com/z2302743489/zhixu-knowledge-platform"><img src="./assets/project-covers/zhixu-knowledge-platform.jpg" width="100%" alt="知序 · 企业知识库与 AI 问答封面" /></a>
+<p><strong><a href="https://github.com/z2302743489/zhixu-knowledge-platform">知序 · 企业知识库与 AI 问答</a></strong><br />
+一个企业知识库与 AI 问答网站，集中管理文档，让员工通过提问获取带资料出处的答案。<br />
+<sub>企业文档管理与问答网站</sub></p>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/z2302743489/ai-model-atlas"><img src="./assets/project-covers/ai-model-atlas.jpg" width="100%" alt="模型全景 · AI Model Atlas封面" /></a>
 <p><strong><a href="https://github.com/z2302743489/ai-model-atlas">模型全景 · AI Model Atlas</a></strong><br />
