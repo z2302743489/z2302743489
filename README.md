@@ -15,8 +15,8 @@
 <td width="50%" valign="top">
 <a href="https://github.com/z2302743489/ai-model-atlas"><img src="./assets/project-covers/ai-model-atlas.jpg" width="100%" alt="模型全景 · AI Model Atlas封面" /></a>
 <p><strong><a href="https://github.com/z2302743489/ai-model-atlas">模型全景 · AI Model Atlas</a></strong><br />
-搜索、筛选和横向对比模型特点、分类榜与套餐额度。<br />
-<sub>模型选型 · 静态资料工作台</sub></p>
+一个汇总国内外主流大模型的网站，集中查看各模型的介绍、功能特点、能力排名、价格和使用额度。<br />
+<sub>国内外大模型导航网站</sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/z2302743489/Grok-fat"><img src="./assets/project-covers/grok-fat.jpg" width="100%" alt="Grok fat · 个人 Agent 桌面版封面" /></a>
