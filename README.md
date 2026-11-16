@@ -12,11 +12,17 @@
 
 <table>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 <a href="https://github.com/z2302743489/zhixu-knowledge-platform"><img src="./assets/project-covers/zhixu-knowledge-platform.jpg" width="100%" alt="知序 · 企业知识库与 AI 问答封面" /></a>
 <p><strong><a href="https://github.com/z2302743489/zhixu-knowledge-platform">知序 · 企业知识库与 AI 问答</a></strong><br />
 一个企业知识库与 AI 问答网站，集中管理文档，让员工通过提问获取带资料出处的答案。<br />
 <sub>企业文档管理与问答网站</sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/z2302743489/idea-to-launch-kit"><img src="./assets/project-covers/idea-to-launch-kit.jpg" width="100%" alt="AI 产品开发与上线手册封面" /></a>
+<p><strong><a href="https://github.com/z2302743489/idea-to-launch-kit">AI 产品开发与上线手册</a></strong><br />
+一套面向非技术产品经理的中文手册、模板和验收脚本，指导使用 AI 编码工具完成产品开发、测试和部署上线。<br />
+<sub>中文手册 · 模板与验收脚本</sub></p>
 </td>
 </tr>
 <tr>

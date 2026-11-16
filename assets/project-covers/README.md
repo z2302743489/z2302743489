@@ -13,6 +13,7 @@
 | ai-model-atlas.jpg | 模型全景选型工作台，仓库 README、主页作品区与分享封面 |
 | grok-fat.jpg | 个人 Agent 桌面定制版，仓库 README、主页作品区与分享封面 |
 | zhixu-knowledge-platform.jpg | 知序 · 企业知识库与 AI 问答，主页作品区与仓库封面 |
+| idea-to-launch-kit.jpg | AI 产品开发与上线手册，主页作品区与仓库封面 |
 
 参考素材来自现有公开仓库：
 
