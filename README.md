@@ -3,14 +3,28 @@
 </a>
 
 <p align="center">
-<a href="https://z2302743489.github.io/">个人网站</a> &nbsp;·&nbsp; <a href="#精选项目">精选项目</a> &nbsp;·&nbsp; <a href="https://github.com/z2302743489?tab=repositories">全部仓库</a>
+<a href="https://z2302743489.github.io/">个人网站</a> &nbsp;·&nbsp; <a href="#项目作品">项目作品</a> &nbsp;·&nbsp; <a href="https://github.com/z2302743489?tab=repositories">全部仓库</a>
 </p>
 
-## 精选项目
+## 项目作品
 
-从运动反馈、学习整理到 AI 游戏创作，围绕具体场景做产品实验。
+从模型选型、桌面 Agent 到运动反馈与学习整理，记录围绕具体场景的产品实践。
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/z2302743489/ai-model-atlas"><img src="./assets/project-covers/ai-model-atlas.jpg" width="100%" alt="模型全景 · AI Model Atlas封面" /></a>
+<p><strong><a href="https://github.com/z2302743489/ai-model-atlas">模型全景 · AI Model Atlas</a></strong><br />
+搜索、筛选和横向对比模型特点、分类榜与套餐额度。<br />
+<sub>模型选型 · 静态资料工作台</sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/z2302743489/Grok-fat"><img src="./assets/project-covers/grok-fat.jpg" width="100%" alt="Grok fat · 个人 Agent 桌面版封面" /></a>
+<p><strong><a href="https://github.com/z2302743489/Grok-fat">Grok fat · 个人 Agent 桌面版</a></strong><br />
+多机器人协作、工具调用与本地办公，加入 Fat 动态头像。<br />
+<sub>桌面 Agent · 基于 OpenMausBot 定制</sub></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/z2302743489/boxing-pose-analysis"><img src="./assets/project-covers/boxing-pose-analysis.jpg" width="100%" alt="拳击动作与重心分析封面" /></a>
