@@ -42,9 +42,9 @@
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/z2302743489/cash.ai"><img src="./assets/project-covers/cash-ai.jpg" width="100%" alt="cash.ai 游戏创作封面" /></a>
-<p><strong><a href="https://github.com/z2302743489/cash.ai">cash.ai 游戏创作</a></strong><br />
-从玩法需求到规划、制作、审查和自动试玩。<br />
-<sub>Codex + Godot · 桌面创作工具</sub></p>
+<p><strong><a href="https://github.com/z2302743489/cash.ai">cash.ai · AI 游戏制作软件</a></strong><br />
+一款 AI 游戏制作桌面软件，输入玩法描述，让 AI 辅助生成游戏代码和素材，并在软件内试玩。<br />
+<sub>AI 游戏制作 · 支持本地试玩</sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://z2302743489.github.io/"><img src="./assets/project-covers/portfolio.jpg" width="100%" alt="我的个人网站封面" /></a>
