@@ -61,10 +61,10 @@
 <sub>AI 游戏制作 · 支持本地试玩</sub></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://z2302743489.github.io/"><img src="./assets/project-covers/portfolio.jpg" width="100%" alt="我的个人网站封面" /></a>
-<p><strong><a href="https://z2302743489.github.io/">我的个人网站</a></strong><br />
-个人介绍、AI 产品探索方向与持续记录的产品思考。<br />
-<sub>Portfolio · 产品与体验</sub></p>
+<a href="https://github.com/z2302743489/toonflow-skills"><img src="./assets/project-covers/toonflow-skills-v1.png" width="100%" alt="Toonflow Skills · AI 影视创作技能包概念封面" /></a>
+<p><strong><a href="https://github.com/z2302743489/toonflow-skills">Toonflow Skills · AI 影视创作技能包</a></strong><br />
+一套供 AI Agent 使用的影视创作技能包，包含 42 个 Skill，可辅助写剧本、设计角色、拆分镜头和整理视频生成提示词。<br />
+<sub>42 个 Agent Skill · 基于 Toonflow 开源项目整理</sub></p>
 </td>
 </tr>
 </table>
